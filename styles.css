@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Cabin", sans-serif;
+    background-color: #F3F6FB
+}
+
+a {
+    text-decoration: none;
+    color: #303030;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #37c871;
+}
+
+#navbar {
+    background-color: #F2EECB;
+    display: flex;
+    gap: 240px;
+    padding: 12px;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid #ffcc00;
+}
+
+#navbar-title {
+    font-family: "Afacad", sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#navbar-title>u {
+    text-decoration: underline;
+    text-decoration-style: "solid";
+    text-decoration-color: rgba(55,200,113,1);
+    text-decoration-thickness: 4px;
+}
+
+#navbar-title>a {
+    color: #536c5d;
+    transition: color 0.3s ease;
+}
+
+#navbar-title>a:hover {
+    color: #37c871;
+}
+
+#navbar-links {
+    font-family: "Cabin", sans-serif;
+    display: flex;
+    gap: 20px;
+}
+
+#navbar-links>a {
+    text-decoration: none;
+    color: #808080;
+    transition: color 0.3s ease;
+}
+
+#navbar-links>a:hover {
+    color: #37c871;
+}
+
+#content {
+    min-height: 80vh;
+    padding: 80px;
+}
+
+#content h1 {
+    font-family: "Afacad", sans-serif;
+    color: #303030;
+}
+
+#content h2 {
+    font-family: "Afacad", sans-serif;
+    color: #404040;
+}
+
+#content h3 {
+    font-family: "Afacad", sans-serif;
+    color: #536c5d;
+}
+
+#content p {
+    font-family: "Cabin", sans-serif;
+    color: #536c5d;
+}
+
+#content ul {
+    margin-left: 15px;
+}
+
+#footer {
+    font-family: "Cabin", sans-serif;
+    border-top: 1px solid #806600;
+}
+
+#footer p {
+    padding: 10px 15px 10px 15px;
+    text-align: center;
+}
+
+#footer a {
+    text-decoration: none;
+}
