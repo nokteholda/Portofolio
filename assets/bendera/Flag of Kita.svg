@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="396.875mm"
+   height="264.58334mm"
+   viewBox="0 0 396.875 264.58334"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="Flag of Kita, FER (v2).svg"
+   inkscape:export-filename="Flag of Kita, FER (v2).png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.35634119"
+     inkscape:cx="760.50709"
+     inkscape:cy="415.33228"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(90.213753,-12.251251)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#0473bd;stroke-width:0.690417"
+       id="rect1"
+       width="396.875"
+       height="264.58334"
+       x="-90.213753"
+       y="12.251251" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <path
+       id="path2"
+       style="fill:#ffffff;stroke-width:0.206735"
+       inkscape:transform-center-y="-32.541929"
+       d="M 197.77605,33.072922 188.51562,198.4375 99.21875,231.51042 Z"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="1.5e-06" />
+    <path
+       id="path3"
+       style="fill:#ffffff;stroke-width:0.206735"
+       inkscape:transform-center-y="-32.541929"
+       d="m 199.09897,33.072922 9.26041,165.364578 89.29687,33.07292 z"
+       sodipodi:nodetypes="cccc"
+       inkscape:transform-center-x="1.5e-06" />
+    <path
+       id="ellipse5"
+       style="fill:#0473bd;stroke-width:0.245288;fill-opacity:1"
+       d="M 227.36235 89.979521 L 227.38922 90.033264 A 99.21875 24.804686 0 0 1 301.46222 114.02818 A 99.21875 24.804686 0 0 1 202.24347 138.83287 A 99.21875 24.804686 0 0 1 103.02472 114.02818 A 99.21875 24.804686 0 0 1 169.18399 90.640979 L 169.23256 90.543311 A 105.83334 26.458334 0 0 0 96.410136 115.68183 A 105.83334 26.458334 0 0 0 202.24347 142.14016 A 105.83334 26.458334 0 0 0 308.0768 115.68183 A 105.83334 26.458334 0 0 0 227.36235 89.979521 z " />
+    <path
+       id="ellipse9"
+       style="fill:#0473bd;fill-opacity:1;stroke-width:0.293888"
+       d="m 227.31946,89.892704 0.0145,0.02946 c 54.82789,3.088829 93.97197,15.75872 93.97204,30.41623 -2.1e-4,17.1843 -53.30624,25.86463 -119.0625,25.86463 -65.75626,0 -119.062292,-8.68033 -119.062501,-25.86463 1.8e-4,-13.86698 35.114471,-26.060251 86.103271,-29.898949 l 0.0258,-0.05219 c -53.80879,3.873101 -91.089766,16.662042 -91.090048,31.247702 -6e-6,17.90035 55.527178,32.41146 124.023438,32.41146 68.49626,0 124.02345,-14.51111 124.02344,-32.41146 3.4e-4,-15.37455 -41.33132,-28.633704 -98.94745,-31.742246 z"
+       sodipodi:nodetypes="cccsccccscc" />
+    <path
+       id="path5"
+       style="fill:#ffffff;stroke-width:0.284997"
+       d="m 187.95545,87.35694 a 119.0625,31.75 0 0 0 -104.774481,31.49987 119.0625,31.75 0 0 0 119.062501,31.75 119.0625,31.75 0 0 0 119.0625,-31.75 A 119.0625,31.75 0 0 0 216.53149,87.35694 105.83334,26.458334 0 0 1 308.0768,113.56515 105.83334,26.458334 0 0 1 202.24347,140.02348 105.83334,26.458334 0 0 1 96.410136,113.56515 105.83334,26.458334 0 0 1 187.95545,87.35694 Z" />
+  </g>
+</svg>
