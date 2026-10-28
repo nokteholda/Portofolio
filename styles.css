@@ -10,8 +10,6 @@ body {
 }
 
 a {
-    text-decoration: none;
-    color: #303030;
     transition: color 0.3s ease;
 }
 
@@ -79,9 +77,21 @@ a:hover {
     color: #303030;
 }
 
+#content h1>a {
+    text-decoration: none;
+    color: #303030;
+    transition: color 0.3s ease;
+}
+
 #content h2 {
     font-family: "Afacad", sans-serif;
     color: #404040;
+}
+
+#content h2>a {
+    text-decoration: none;
+    color: #404040;
+    transition: color 0.3s ease;
 }
 
 #content h3 {
@@ -89,9 +99,24 @@ a:hover {
     color: #536c5d;
 }
 
+#content h3>a {
+    text-decoration: none;
+    color: #536c5d;
+    transition: color 0.3s ease;
+}
+
 #content p {
     font-family: "Cabin", sans-serif;
     color: #536c5d;
+}
+
+#content p>a {
+    color: #536c5d;
+    transition: color 0.3s ease;
+}
+
+#content *>a:hover {
+    color: #37c871;
 }
 
 #content ul {
