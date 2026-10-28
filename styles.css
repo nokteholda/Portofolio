@@ -140,5 +140,50 @@ a:hover {
 }
 
 #footer a {
+    color: #536c5d;
     text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+#footer a:hover {
+    color: #37c871;
+}
+
+div.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+div.gallery-item {
+    margin: 5px;
+    border: 1px solid #536c5d;
+    transition: border 0.3s ease;
+    width: calc(25% - 20px);
+}
+
+div.gallery-item:hover {
+    border: 1px solid #37c871;
+}
+
+div.gallery-item img {
+    width: 100%;
+    height: auto;
+}
+
+div.gallery-item div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+    div.gallery-item {
+        width: calc(50% - 20px);
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    div.gallery-item {
+        width: calc(100% - 20px);
+    }
 }
