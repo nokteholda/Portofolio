@@ -160,7 +160,6 @@ div.gallery-item {
     border: 1px solid #536c5d;
     color: #536c5d;
     transition: border 0.3s ease;
-    transition: color 0.3s ease;
     width: calc(25% - 20px);
 }
 
